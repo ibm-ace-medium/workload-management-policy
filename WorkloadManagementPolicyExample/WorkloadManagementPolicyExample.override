@@ -1,0 +1,2 @@
+#WorkloadManagementFlow#additionalInstances=5
+WorkloadManagementFlow#wlmPolicy={WorkloadManagementPolicyExamplePolicyProject}:WorkloadManagement
